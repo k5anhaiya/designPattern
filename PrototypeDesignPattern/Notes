@@ -1,0 +1,5 @@
+Protoype :
+
+The concept is to copy the existing Object rather than creating new Instance from scratch because creating object sometime may be costly.
+
+This approach saves costly resorces and time. Especially when object creation is a heavy process.
